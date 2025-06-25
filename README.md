@@ -1,3 +1,3 @@
 # Cones_And_Lane_Detection
 
-[![Watch the demo](images/thumbnail.png)](cones-detection.mp4)
+📽️ [Click here to watch the demo video](cones-detection.mp4)
